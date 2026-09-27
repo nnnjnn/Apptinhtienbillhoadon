@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 import pandas as pd
 import streamlit as st
-enscape-2022-08-26-17-12-33-t018-424.jpg
+st.image("enscape-2022-08-26-17-12-33-t018-424.jpg")
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
 
 # Đường dẫn file dữ liệu dùng chung trên máy chủ
